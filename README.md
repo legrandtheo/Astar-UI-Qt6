@@ -13,9 +13,9 @@ Le projet implémente l'algorithme **A* (A-Star)** dans sa version standard ains
 
 ![Interface Principale](https://i.ibb.co/RkGtM86b/image.png)
 
-## ✨ Fonctionnalités Clés
+##  Fonctionnalités Clés
 
-### 🧠 Algorithmes
+###  Algorithmes
 * **A* Standard :** Recherche de chemin classique avec heuristique de distance.
 * **A* Bidirectionnel :** Version optimisée lançant deux recherches simultanées (depuis le départ et l'arrivée) qui se rencontrent au milieu. Réduit drastiquement l'espace de recherche.
 * **Affichage des voisins :** Visualisation des connexions entre les nœuds pour le débogage.
