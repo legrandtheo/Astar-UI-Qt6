@@ -9,6 +9,9 @@ Une application haute performance de calcul d'itinéraire sur des données carto
 Le projet implémente l'algorithme **A* (A-Star)** dans sa version standard ainsi qu'une version **Bidirectionnelle** optimisée. Il intègre un moteur de rendu interactif capable d'afficher des milliers de nœuds et d'exporter les résultats au format GeoJSON.
 
 ---
+## 📸 Aperçu
+
+![Interface Principale](https://i.ibb.co/RkGtM86b/image.png)
 
 ## ✨ Fonctionnalités Clés
 
