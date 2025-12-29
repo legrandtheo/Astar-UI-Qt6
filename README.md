@@ -11,7 +11,7 @@ Le projet implémente l'algorithme **A* (A-Star)** dans sa version standard ains
 ---
 ## 📸 Aperçu
 
-![Interface Principale](https://i.ibb.co/RkGtM86b/image.png)
+![Interface Principale](app_preview.png)
 
 ##  Fonctionnalités Clés
 
